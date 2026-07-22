@@ -84,8 +84,6 @@ Monitored:
 - Sysmon 1 - Process Creation
 - Sysmon 10 - Process Access
 
-![Windows Security Monitoring](./assets/splunk-windows-data-sources.png)
-
 ---
 
 ## Linux
