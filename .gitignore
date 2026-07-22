@@ -1,0 +1,152 @@
+# =========================
+# OS Files
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# =========================
+# Editors / IDE
+# =========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+# =========================
+# Logs
+# =========================
+
+*.log
+logs/
+*.evtx
+*.etl
+
+
+# =========================
+# Splunk
+# =========================
+
+splunk_data/
+splunk_home/
+*.splunk
+*.tsidx
+
+# Splunk exports
+exports/
+search_results/
+*.csv
+*.json
+
+# Splunk configs containing secrets
+local/
+*.conf
+
+
+# =========================
+# Screenshots / Temporary Files
+# =========================
+
+*.tmp
+*.temp
+*.bak
+
+# Keep portfolio screenshots
+!assets/*.png
+!assets/*.jpg
+
+
+# =========================
+# Virtual Machines
+# =========================
+
+*.vmdk
+*.vdi
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+
+.vagrant/
+
+
+# =========================
+# Credentials / Secrets
+# =========================
+
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.pfx
+*.p12
+
+credentials/
+secrets/
+passwords/
+
+
+# =========================
+# Scripts Output
+# =========================
+
+output/
+results/
+reports/
+
+
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+
+# =========================
+# PowerShell
+# =========================
+
+*.ps1.log
+
+
+# =========================
+# Atomic Red Team
+# =========================
+
+AtomicRedTeam/
+atomic_downloads/
+*.exe
+
+
+# =========================
+# Malware / Test Payloads
+# =========================
+
+payloads/
+samples/
+malware/
+
+
+# =========================
+# Terraform / Cloud
+# =========================
+
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+
+# =========================
+# Personal Notes
+# =========================
+
+notes_private/
+private/
