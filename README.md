@@ -275,7 +275,7 @@ Implemented automated containment workflow integrating SIEM detection with firew
 
 Example containment action: `easyrule block DMZ <source_ip>`
 
-![Automated Response](./assets/12-automated-response-pfsense.png)
+![Automated Response](./assets/automated-response-pfsense.png)
 
 ---
 
